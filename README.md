@@ -9,3 +9,8 @@ The purpose of this project was to develop a slot machine program that allows th
 
 [random]
 
+## Future Alterations
+
+[^1]: Current program requires user to bet in whole dollar amounts. Future update to allow users to bet with cents.
+
+[^note]: Program has global constants(constraints) that prevent user from betting more than max amount for max lines. Future implementaton of slot machine tiers i.e. "high roller" slot machine, to allow user to choose their bet limits.
